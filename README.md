@@ -32,12 +32,14 @@ Enter AI-Lunch-Box.
 This application scrapes any of your local ICA grocery stores in order to get this weeks best deals on groceries. 
 This information is then passed to OpenAI's chat-gpt together with predefined prompts in order to return to the user a shopping list and cooking instructions. It can also send the information to the phone number of your choice, allowing you to use the information from a handheld device (ex. during cooking or shopping) as well as offline.
 
-This application is unique in catering to Swedish users and tastes but is modular to allow for other languages, units and eventual preferences. 
+This application is unique in catering to Swedish users and tastes but is modular to allow for other languages, units and eventual preferences. There are many possibilities for further customisation and addition of new features.
+
+Join AI-Lunch-Box today!
 
 
 ### Screenshots
 
-Include relevant screenshots or a demo GIF:
+ICA grocery store weekly deals are the basis for the application. The user may choose local store from any of the hundreds of available ICAs in Sweden. 
 
 ![Screenshot of the project](pic.png)
 
@@ -46,13 +48,25 @@ Include relevant screenshots or a demo GIF:
 
 ## Getting Started
 
-Step-by-step instructions to get a local copy running.
+To get started with this application. Follow the step-by step guide below. 
 
 ### Prerequisites
 
 List tools and dependencies needed:
 - Python 3.10+
-- Other requirements (e.g., `pip install -r requirements.txt`)
+Libraries used:
+- selenium
+- requests
+- bs4 - BeautifulSoup
+- openai
+- twilio.rest
+- os
+- dotenv
+
+Other requirements:
+-pip install
+-pipenv
+
 
 ### Installation
 

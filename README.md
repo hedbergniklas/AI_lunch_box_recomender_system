@@ -39,7 +39,8 @@ This application is unique in catering to Swedish users and tastes but is modula
 
 Include relevant screenshots or a demo GIF:
 
-![Screenshot of the project](https://via.placeholder.com/800x400)
+![Screenshot of the project](pic.png)
+
 
 ---
 

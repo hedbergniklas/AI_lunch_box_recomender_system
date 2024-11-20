@@ -83,9 +83,15 @@ To install, follow the steps
 git clone https://github.com/yourusername/repo.git
 # Navigate to the project directory
 # Install dependencies using pip
-
-#Choose your local ICA store. And navigate to the homepage of this store. Save the url
 ```
+
+## Setting up your preferences:
+1.Use your web-browser to get to https://www.ica.se/butiker/
+2.Search for your local store and go to the page.
+3.Copy the url and save it somewhere you can retrieve it from. 
+4.Open the chat_gpt_app.ipynb file and change 
+
+
 
 ## Features
 

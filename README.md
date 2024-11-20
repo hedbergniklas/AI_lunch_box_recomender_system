@@ -39,12 +39,15 @@ Join AI-Lunch-Box today!
 
 ### Screenshots
 
-ICA grocery store weekly deals are the basis for the application. The user may choose local store from any of the hundreds of available ICAs in Sweden. 
+ICA grocery store weekly deals are the basis for the application.  
 
 ![Screenshot of the project](pic.png)
 
 
 ---
+The user may choose local store from any of the hundreds of available ICAs in Sweden. 
+![Screenshot of the project](ica2.png)
+
 
 ## Getting Started
 

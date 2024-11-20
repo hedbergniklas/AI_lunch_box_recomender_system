@@ -39,12 +39,16 @@ Join AI-Lunch-Box today!
 
 ### Screenshots
 
-ICA grocery store weekly deals are the basis for the application. The user may choose local store from any of the hundreds of available ICAs in Sweden. 
+ICA grocery store weekly deals are the basis for the application.  
 
 ![Screenshot of the project](pic.png)
 
 
 ---
+The user may choose local store from any of the hundreds of available ICAs in Sweden. 
+
+![Screenshot of the project](ica2.png)
+
 
 ## Getting Started
 
@@ -66,21 +70,21 @@ Libraries used:
 Other requirements:
 -pip install
 -pipenv
+-Internet browser (chrome)
+
 
 
 ### Installation
 
-Provide clear installation steps:
+To install, follow the steps
 
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/repo.git
-
 # Navigate to the project directory
-cd repo
+# Install dependencies using pip
 
-# Install dependencies
-pip install -r requirements.txt
+#Choose your local ICA store. And navigate to the homepage of this store. Save the url
 ```
 
 ## Features

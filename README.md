@@ -91,6 +91,8 @@ git clone https://github.com/yourusername/repo.git
 3.Copy the url and save it somewhere you can retrieve it from. 
 4.Open the chat_gpt_app.ipynb file and change 
 
+![Screenshot of the project](ica3.png)
+
 
 
 ## Features
